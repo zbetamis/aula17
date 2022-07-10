@@ -1,0 +1,293 @@
+
+body{
+	background-color:gray;
+	}
+	#cabecalho{
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 200px;
+  display: flex;
+
+  justify-content: flex-end;
+  position: fixed;
+  
+}
+#logo-cab{
+  width: 10%;
+  height: 10vh;
+  display: flex;
+  margin-right: 40%;
+  margin-top: 10vh;
+}
+li{
+  color:black;
+  padding: 15px;
+  margin-top: 13vh;
+  font-size: 25px;
+  
+  
+}
+.desord{
+  list-style: none;
+  display: flex;
+  margin-right: 150px;
+  
+
+}
+#meio{
+	width: 100%;
+	height: 800px;
+	background-color: black;
+	margin-top: 210px;
+	background-image: url('img/fundo.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+#esq{
+	width: 45%;
+	display: inline-flex;
+	height: 600px;
+	background-color: red;
+	margin-top:1%;
+	background-image: url('img/casa.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+#dir{
+	width: 45%;
+	height: 600px;
+	background-color: green;
+	margin-top: 1%;
+	float:right;
+	background-image: url('img/design.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+h1{
+	font-size:50px;
+	text-align: center;
+}
+h2{
+	font-size: 35px;
+	text-align: center;
+}
+td{
+	border: 2px solid black;
+
+
+}
+input{
+	padding: 10px 10px;
+}
+table{
+	border:2px solid black;
+	border-collapse: collapse;
+}
+tr{
+	border: 2px solid black;
+	text-align: center;
+}
+#rodape{
+	width: 100%;
+	height: auto;
+	display: flex;
+	
+}
+form{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:2%;
+}
+fieldset{
+	text-align: center;
+	font-size: 25px;
+}
+#dois{
+text-align: center;
+}
+#album1{
+	width: 100%;
+	height: 300px;
+	display: flex;
+	padding: 0px 10px; 
+	justify-content: center;
+
+
+}
+#album2{
+	width: 100%;
+	height: 300px;
+	display: flex;
+	padding: 0px 10px; 
+	justify-content: center;
+
+
+}
+#album3{
+	width: 100%;
+	height: 300px;
+	display: flex;
+	padding: 0px 10px; 
+	justify-content: center;
+
+
+}
+
+.a{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+	background-image: url('img/trena.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.b{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/alicate.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.c{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/andaime.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.d{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/betoneira.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.e{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/bomba.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.f{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/chave.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.g{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/comprossor.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.h{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/corte.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.i{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/esmerilhadeira.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.j{
+	width: 15%;
+	display:flex;
+height:250px;
+	margin:10px;
+		background-image: url('img/furadeira.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.k{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/gerador.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.l{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/licadeira.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.m{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/martelo.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.n{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;
+		background-image: url('img/nivel.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.o{
+	width: 15%;
+	display:flex;
+	height:250px;
+	margin:10px;	
+		background-image: url('img/parafusadeira.jpg');
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
